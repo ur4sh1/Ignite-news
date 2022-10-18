@@ -14,3 +14,7 @@ Instalando o react-icons
 ```
 yarn add react-icons
 ```
+Instalando o Stripe (api de pagamentos)
+```
+yarn add stripe
+```
