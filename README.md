@@ -10,3 +10,7 @@ Instalando o SASS
 ```
 yarn add sass
 ```
+Instalando o react-icons
+```
+yarn add react-icons
+```
