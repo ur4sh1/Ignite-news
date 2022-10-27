@@ -1,5 +1,7 @@
 #Exercício de React
-<h1 align="center">:file_cabinet: Sistema design system</h1>
+<h1 align="center">:file_cabinet: IgNews</h1>
+
+<img align="center" title="IgNews" src="https://github.com/ur4sh1/Ignite-news/blob/main/public/2022-10-27.png" />
 
 ## :memo: Descrição
 Exercício de React
@@ -12,6 +14,20 @@ Exercício de React
 * Sass;
 * Radix;
 * Stripe - Api de pagamentos online;
+
+## :rocket: Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+git clone git@github.com:ur4sh1/Ignite-news.git
+```
+Instalar o yarn
+```
+yarn
+```
+Executar
+```
+yarn next
+```
 
 ## :wrench: Histórico de comandos
 
